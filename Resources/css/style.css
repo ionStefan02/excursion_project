@@ -37,12 +37,16 @@ footer{
 .camp {
     width: 1000px;
     display: block;
+    margin: 0 auto;
 } 
 .logo {
     width: 50px;
     display: block;
+    margin: 0 auto;
+
 }
 .exc {
     width:350px;
     display: block;
+    margin: 0 auto
 }
